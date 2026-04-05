@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="Smart Slum Resource & Job Matching System",
     page_icon="🌟",
     layout="wide",
-    initial_sidebar_state="collapsed"
+    initial_sidebar_state="expanded"
 )
 
 from modules.database import init_db
